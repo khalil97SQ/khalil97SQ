@@ -25,17 +25,18 @@ I love solving real problems using modern tools and continuously improving my sk
 
 ## 🛠 Languages & Tools
 
-<div style="display: flex; gap: 10px;">
-  <img height="30" src="https://raw.githubusercontent.com/github/explore/master/topics/html/html.png">
-  <img height="30" src="https://raw.githubusercontent.com/github/explore/master/topics/css/css.png">
-  <img height="30" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png">
-  <img height="30" src="https://raw.githubusercontent.com/github/explore/master/topics/react/react.png">
-  <img height="30" src="https://raw.githubusercontent.com/github/explore/master/topics/tailwind/tailwind.png">
-  <img height="30" src="https://raw.githubusercontent.com/github/explore/master/topics/material-ui/material-ui.png">
-  <img height="30" src="https://raw.githubusercontent.com/github/explore/master/topics/figma/figma.png">
-  <img height="30" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png">
-  <img height="30" src="https://raw.githubusercontent.com/github/explore/master/topics/github/github.png">
+<div style="display: flex; gap: 12px; align-items: center;">
+  <img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+  <img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg">
+  <img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg">
+  <img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
+  <img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+  <img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
 </div>
+
 
 ---
 
