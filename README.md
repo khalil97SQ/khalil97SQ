@@ -23,7 +23,7 @@ I love solving real problems using modern tools and continuously improving my sk
 
 ---
 
-### 🛠️ Skills
+## 🛠️ Skills
 
 - Frontend Development
 - HTML, CSS
