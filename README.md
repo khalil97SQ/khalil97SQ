@@ -23,6 +23,17 @@ I love solving real problems using modern tools and continuously improving my sk
 
 ---
 
+### 🛠️ Skills
+- Frontend Development
+- HTML, CSS
+- UI/UX Design & Figma
+- JavaScript, TypeScript
+- React.js, Next.js
+- Tailwind CSS, MUI
+- More Coming Soon...
+
+---
+
 ## 🛠 Languages & Tools
 
 <div style="display: flex; gap: 20px; align-items: center;">
