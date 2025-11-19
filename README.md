@@ -3,7 +3,7 @@
 
 ### 📬 Connect with me:
 [![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github)](https://github.com/khalil97SQ)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khalil97sq/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khalil97sq/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/khalil97sq/)
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/khalil97sq)
 [![TikTok Badge](https://img.shields.io/badge/-TikTok-000000?style=flat-square&logo=tiktok&logoColor=white)](https://www.tiktok.com/@khalil97sq)
