@@ -25,7 +25,7 @@ I love solving real problems using modern tools and continuously improving my sk
 
 ## 🛠 Languages & Tools
 
-<div style="display: flex; gap: 12px; align-items: center;">
+<div style="display: flex; gap: 20px; align-items: center;">
   <img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
@@ -34,7 +34,7 @@ I love solving real problems using modern tools and continuously improving my sk
   <img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg">
   <img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
   <img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-  <img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
+<img height="32" src="https://cdn.simpleicons.org/github/FFFFFF">
 </div>
 
 
