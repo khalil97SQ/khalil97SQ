@@ -73,5 +73,12 @@ I love solving real problems using modern tools and continuously improving my sk
 ## 🔥 GitHub Stats
 
 <p align="center">
+  <!-- Main GitHub stats -->
   <img width="450" src="https://github-readme-stats.vercel.app/api?username=khalil97SQ&show_icons=true&theme=react" />
 </p>
+
+<p align="center">
+  <!-- Top languages used -->
+  <img width="450" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khalil97SQ&layout=compact&theme=react" />
+</p>
+
