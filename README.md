@@ -74,20 +74,7 @@ I love solving real problems using modern tools and continuously improving my sk
 
 ---
 
-## 🤣 Fun Facts
-
-- I always code with a cup of coffee ☕  
-- I love clean, minimal, and modern UI designs  
-- I enjoy learning something new every single day  
-
----
-
 ## 🔥 GitHub Stats
-
-<p align="center">
-  <!-- Main GitHub stats -->
-  <img width="450" src="https://github-readme-stats.vercel.app/api?username=khalil97SQ&show_icons=true&theme=react" />
-</p>
 
 <p align="center">
   <!-- Top languages used -->
