@@ -27,12 +27,12 @@ I’m all about creativity, clean code, and delivering interfaces that feel as g
 ## ⚡️ What I work on
 
 - 🎨 Frontend Development  
-- ⚛️ React.js  
-- 🟨 JavaScript  
 - 🧩 HTML & CSS  
+- 🖌️ UI/UX Design  
+- 🟨 JavaScript  
+- ⚛️ React.js  
 - 🎀 TailwindCSS  
 - 🎛️ Material UI (MUI)  
-- 🖌️ UI/UX Design  
 - 🧪 Figma  
 - 🚀 More coming soon...
 
