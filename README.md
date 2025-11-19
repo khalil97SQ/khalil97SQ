@@ -24,6 +24,7 @@ I love solving real problems using modern tools and continuously improving my sk
 ---
 
 ### 🛠️ Skills
+
 - Frontend Development
 - HTML, CSS
 - UI/UX Design & Figma
